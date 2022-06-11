@@ -5,8 +5,8 @@ app.get('/', function (req, res) {
   res.json({
     type: 'get',
     number: 1,
-    nama: 'Okyza Maherdy Prabowo',
-    npm: '33220025'
+    nama: 'Reyhan Muhamad Ramdan',
+    npm: '2042034'
   });
 })
 
